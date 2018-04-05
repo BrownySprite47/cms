@@ -1,0 +1,16 @@
+{
+    "name": "bestuser1/cms",
+    "authors": [
+        {
+            "name": "Anna Galochkina",
+            "email": "kr0085@mail.ru"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Engine\\": "engine",
+            "Engine\\DI\\": "engine/DI"
+        }
+    }
+}
