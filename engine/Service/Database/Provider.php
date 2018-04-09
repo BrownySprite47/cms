@@ -18,6 +18,7 @@ class Provider extends AbstractProvider
      * @var string
      */
     public $serviceName = 'db';
+
     /**
      * @return mixed
      */
